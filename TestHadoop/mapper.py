@@ -8,7 +8,6 @@ This is a temporary script file.
 #!/usr/bin/env python
 
 import sys
-## added
 
 # input comes from STDIN (standard input)
 for line in sys.stdin:
