@@ -4,7 +4,11 @@ Created on Thu Jan  8 10:53:47 2015
 
 @author: Team
 """
+<<<<<<< HEAD
 testMe
+=======
+
+>>>>>>> branch 'master' of https://github.com/lianabarghouti/liana.git
 #!/usr/bin/env python
 
 from operator import itemgetter
